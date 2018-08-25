@@ -9,12 +9,6 @@
 	</parent>
 	<artifactId>ee-backend</artifactId>
 	<packaging>war</packaging>
-
-	<properties>
-		<jdk.tools.version>1.9</jdk.tools.version>
-		<maven.compiler.source>1.9</maven.compiler.source>
-		<maven.compiler.target>1.9</maven.compiler.target>
-	</properties>
 	
 	<dependencies>
 		<dependency>
