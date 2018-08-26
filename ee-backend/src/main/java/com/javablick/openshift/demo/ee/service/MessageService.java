@@ -1,4 +1,4 @@
-package com.javablick.openshift.demo.service;
+package com.javablick.openshift.demo.ee.service;
 
 import java.util.ArrayList;
 import java.util.List;

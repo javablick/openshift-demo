@@ -10,6 +10,7 @@
 
 	<modules>
 		<module>ee-backend</module>
+		<module>ee-backend2</module>
 	</modules>
 
 	<profiles>

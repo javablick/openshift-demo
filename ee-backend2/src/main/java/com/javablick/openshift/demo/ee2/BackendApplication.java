@@ -1,4 +1,4 @@
-package com.javablick.openshift.demo;
+package com.javablick.openshift.demo.ee2;
 
 import javax.ws.rs.ApplicationPath;
 import javax.ws.rs.core.Application;
